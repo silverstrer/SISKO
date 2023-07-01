@@ -1,0 +1,8 @@
+"IDakun","userakun","passakun","roleakun","id-data"
+"1","galasanca@gmail.com","galasanca","admin","1"
+"IDdataptk","namaptk","kelamin","tempatlahir","tanggallahir","nik","nuptk","skawal","jabatan","pendidikan","instansi","jurusan","tahunlulus","nohp","alamat","nikktp","nikkk","nonaktif","alasannonaktif"
+"IDdatasiswa","nama","kelamin","tempatlahir","tanggallahir","nis","nisn","tahunmasuk","tanggalmasuk","kelas","pendidikan","namaayah","kerjaayah","namaibu","kerjaibu","nohp","alamat","nikktp","nikkk","status","tahunkeluar","tanggalkeluar","keterangan"
+"IDdokumen","namadokumen","deskripsidok","tanggaldok"
+"IDindukptk","id_dataptk","tahunajaran","tugas","jam","kelas","mapel"
+"IDinduksiswa","id_datasiswa","tahunajaran","semester","kelasinduk","titimangsa","id_dataptk"
+"IDlink","namalink","alamatlink","deskripsilink","tgllink"
